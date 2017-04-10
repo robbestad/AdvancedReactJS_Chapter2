@@ -1,0 +1,20 @@
+{
+  "name": "advanced_react_redux_02",
+  "version": "1.0.0",
+  "description": "Redux example 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index"
+  },
+  "keywords": [
+    "redux",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "redux": "^3.6.0"
+  }
+}
